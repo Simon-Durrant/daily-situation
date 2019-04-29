@@ -1,0 +1,23 @@
+body {
+  background-image: url("3Znln0flKY.png");
+  background-size: cover;
+}
+
+h1, p {
+  display: inline;
+  font-family: 'Raleway', sans-serif;
+  color: #4CAF50;
+  background-color: #fff;
+  margin-top: 50px;
+  padding: 20px;
+  border-radius: 10px;
+  opacity: .95;
+}
+
+h1 {
+  position: absolute;
+  bottom: 15px;
+}
+p {
+  font-size: 20px;
+}
